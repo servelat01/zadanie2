@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\swith\bin\Debug\swith.exe.config
+C:\Users\Студент\source\repos\swith\bin\Debug\swith.exe
+C:\Users\Студент\source\repos\swith\bin\Debug\swith.pdb
+C:\Users\Студент\source\repos\swith\obj\Debug\swith.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\swith\obj\Debug\swith.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\swith\obj\Debug\swith.exe
+C:\Users\Студент\source\repos\swith\obj\Debug\swith.pdb
